@@ -15,12 +15,47 @@ This course covers core AI concepts, including deep learning, machine learning, 
 
 ---
 
-
 ## 🎯 Course Goals
 
 By the end of this course, you will understand:
 
-✅ The fundamental concepts and applications of AI in various domains. 
-✅ The core principles of machine learning, deep learning, and neural networks, and apply them to real-world scenarios.
-✅ The role of generative AI in transforming business operations, identifying opportunities for innovation and process improvement. 
-✅ Design a generative AI solution for an organizational challenge, integrating ethical considerations. 
+✅Explain the fundamental concepts and applications of artificial intelligence (AI) in various domains.
+✅Differentiate between artificial intelligence and augmented intelligence, highlighting their distinct roles in enhancing human capabilities.
+✅Apply knowledge of generative AI to identify its practical use cases across industries.
+✅Classify AI systems into narrow, general, and superintelligent categories based on their capabilities.
+✅Compare traditional AI and generative AI to understand their functional differences and evolution.
+✅Explain the current limitations and progress of AI in achieving general human-like intelligence.
+✅Identify and describe applications of AI that enhance everyday personal and professional tasks.
+✅Explain the role of AI in enabling the functionality of chatbots and smart assistants.
+✅Describe the definition, purpose, and functioning of a chatbot in digital interactions.
+✅Apply techniques to create and improve conversational flows in AI assistant interactions.
+✅Identify how AI is applied across various industries to improve processes and decision-making.
+✅Apply generative AI tools to perform tasks such as content creation and automation.
+✅Explain common use cases of AI and machine learning in routine personal and commercial activities.
+✅Demonstrate the ability to use generative AI tools to generate relevant outputs from input prompts.
+
+## 🗂️ Course Structure
+
+The course consists of **4 Weeks**:
+
+### Week 1: 
+
+
+### Week 2: 
+
+
+### Week 3: 
+
+
+### Week 4: 
+
+
+---
+
+## ✍️ Key Learnings & Notes
+
+
+## 📎 Resources & Links
+
+This is a personal educational project.  
+All course materials belong to **Coursera** and **IBM**. This repo only contains personal notes and is not a substitute for taking the actual course.
