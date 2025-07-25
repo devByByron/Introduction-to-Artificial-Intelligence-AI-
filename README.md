@@ -20,8 +20,11 @@ This course covers core AI concepts, including deep learning, machine learning, 
 By the end of this course, you will understand:
 
 ✅Explain the fundamental concepts and applications of artificial intelligence (AI) in various domains.
+
 ✅Differentiate between artificial intelligence and augmented intelligence, highlighting their distinct roles in enhancing human capabilities.
+
 ✅Apply knowledge of generative AI to identify its practical use cases across industries.
+
 ✅Classify AI systems into narrow, general, and superintelligent categories based on their capabilities.
 ✅Compare traditional AI and generative AI to understand their functional differences and evolution.
 ✅Explain the current limitations and progress of AI in achieving general human-like intelligence.
