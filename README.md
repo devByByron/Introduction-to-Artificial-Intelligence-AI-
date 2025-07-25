@@ -1,6 +1,3 @@
-# Introduction-to-Artificial-Intelligence-AI-
-
-
 # 🤖 Introduction to Artificial Intelligence (AI) – Rav Ahuja | IBM
 
 
