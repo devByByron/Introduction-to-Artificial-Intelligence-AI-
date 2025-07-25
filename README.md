@@ -46,18 +46,18 @@ By the end of this course, you will understand:
 
 ## 🗂️ Course Structure
 
-The course consists of **4 Weeks**:
+The course consists of **4 Modules**:
 
-### Week 1: 
-
-
-### Week 2: 
+### Module 1: Introduction and Application of AI
 
 
-### Week 3: 
+### Module 2: AI Concepts, Terminology, and Application Domains
 
 
-### Week 4: 
+### Module 3: Business and Career Transformation Through AI
+
+
+### Module 4: Issues, Concerns, and Ethical Considerations
 
 
 ---
