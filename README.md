@@ -19,22 +19,32 @@ This course covers core AI concepts, including deep learning, machine learning, 
 
 By the end of this course, you will understand:
 
-✅Explain the fundamental concepts and applications of artificial intelligence (AI) in various domains.
+✅Explain the fundamental concepts and applications of artificial intelligence (AI) in various domains. 
 
 ✅Differentiate between artificial intelligence and augmented intelligence, highlighting their distinct roles in enhancing human capabilities.
 
 ✅Apply knowledge of generative AI to identify its practical use cases across industries.
 
 ✅Classify AI systems into narrow, general, and superintelligent categories based on their capabilities.
+
 ✅Compare traditional AI and generative AI to understand their functional differences and evolution.
+
 ✅Explain the current limitations and progress of AI in achieving general human-like intelligence.
+
 ✅Identify and describe applications of AI that enhance everyday personal and professional tasks.
+
 ✅Explain the role of AI in enabling the functionality of chatbots and smart assistants.
+
 ✅Describe the definition, purpose, and functioning of a chatbot in digital interactions.
+
 ✅Apply techniques to create and improve conversational flows in AI assistant interactions.
+
 ✅Identify how AI is applied across various industries to improve processes and decision-making.
+
 ✅Apply generative AI tools to perform tasks such as content creation and automation.
+
 ✅Explain common use cases of AI and machine learning in routine personal and commercial activities.
+
 ✅Demonstrate the ability to use generative AI tools to generate relevant outputs from input prompts.
 
 ## 🗂️ Course Structure
