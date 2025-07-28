@@ -178,6 +178,22 @@ They’ve grown from simple rule-based bots to advanced AI chatbots that can hav
 - Education (e.g. tutoring or answering learning questions)
 - Also used in HR and IT support, and even for understanding emotions (sentiment analysis)
 
+**AI in Manufacturing**
+- Robots and automation handle repetitive tasks, boosting efficiency.
+- Image recognition helps with quality control by spotting defects early.
+
+**AI in Healthcare**
+- Helps analyze medical images (like X-rays) for better diagnosis.
+- Uses predictive analytics to identify health risks and improve patient care.
+
+**AI in Finance**
+- Powers chatbots for customer service.
+- Improves investment decisions by analyzing large amounts of data.
+
+**AI in Retail**
+- Suggests products through recommendation engines.
+- Helps predict demand, manage stock, and personalize marketing.
+
 
 ## 📎 Resources & Links
 
