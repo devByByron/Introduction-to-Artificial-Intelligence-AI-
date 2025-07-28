@@ -50,12 +50,9 @@ The course consists of **4 Modules**:
 
 ### Module 1: Introduction and Application of AI
 
-
 ### Module 2: AI Concepts, Terminology, and Application Domains
 
-
 ### Module 3: Business and Career Transformation Through AI
-
 
 ### Module 4: Issues, Concerns, and Ethical Considerations
 
@@ -63,6 +60,18 @@ The course consists of **4 Modules**:
 ---
 
 ## ✍️ Key Learnings & Notes
+
+## AI
+
+**What is AI?**
+AI simulates human intelligence through computer systems. They utilize alogorithms and data to function. Enable machines to perform task requiring human intelligence such as: Learning, Reasoning Problem-solving and Decision-making
+
+**Types of AI**
+
+**How does AI learn?**
+- Supervised learning:
+- Unsupervised learning:
+- Reinforcement learning:
 
 
 ## 📎 Resources & Links
