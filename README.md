@@ -17,31 +17,18 @@ This course covers core AI concepts, including deep learning, machine learning, 
 By the end of this course, you will understand:
 
 ✅Explain the fundamental concepts and applications of artificial intelligence (AI) in various domains. 
-
 ✅Differentiate between artificial intelligence and augmented intelligence, highlighting their distinct roles in enhancing human capabilities.
-
 ✅Apply knowledge of generative AI to identify its practical use cases across industries.
-
 ✅Classify AI systems into narrow, general, and superintelligent categories based on their capabilities.
-
 ✅Compare traditional AI and generative AI to understand their functional differences and evolution.
-
 ✅Explain the current limitations and progress of AI in achieving general human-like intelligence.
-
 ✅Identify and describe applications of AI that enhance everyday personal and professional tasks.
-
 ✅Explain the role of AI in enabling the functionality of chatbots and smart assistants.
-
 ✅Describe the definition, purpose, and functioning of a chatbot in digital interactions.
-
 ✅Apply techniques to create and improve conversational flows in AI assistant interactions.
-
 ✅Identify how AI is applied across various industries to improve processes and decision-making.
-
 ✅Apply generative AI tools to perform tasks such as content creation and automation.
-
 ✅Explain common use cases of AI and machine learning in routine personal and commercial activities.
-
 ✅Demonstrate the ability to use generative AI tools to generate relevant outputs from input prompts.
 
 ## 🗂️ Course Structure
@@ -116,7 +103,7 @@ Example: A robot teacher that can teach math today and cook a meal tomorrow—ju
 
 **Strengths of machines vs. humans**:
 
-- achines are great at quickly handling lots of data and doing repetitive jobs accurately.
+- Machines are great at quickly handling lots of data and doing repetitive jobs accurately.
 
 - Humans are better at being creative, understanding emotions, and using general knowledge—important for things like customer service.
 
@@ -137,6 +124,46 @@ It helps make marketing, creative work, product design, healthcare, gaming, fash
 **Why does it matter?**
 It is changing many industries by helping people work faster, come up with new ideas, and make custom solutions.
 Experts think it will help the world’s economy grow a lot in the next 10 years.
+
+**Traditional AI vs Generative AI**
+
+**Traditional AI:**
+- Uses internal data like tables, images, and documents.
+- Builds models to make predictions (e.g. prevent customer churn).
+- Learns over time using a feedback loop to improve accuracy.
+
+**Generative AI:**
+- Uses large external datasets (not just company data).
+- Relies on large language models (LLMs) that need careful prompting and tuning.
+- A feedback loop helps refine prompts to make responses more specific to a company’s needs.
+
+**AI’s Impact on Industries**
+AI’s transformative influence across various industries:
+
+- **Manufacturing**: AI-driven robotics, image recognition systems
+- **Healthcare**: Medical imaging analysis, predictive analytics, operational efficiency
+- **Finance**: Enhance customer service, investment analysis
+- **Retail**: Customer engagement, inventory management, marketing, cashier-less stores
+
+**What Are AI Chatbots and Smart Assistants?**
+They are AI-powered programs that can understand questions, provide answers, and help with tasks.
+
+**How Have Chatbots Evolved?**
+They’ve grown from simple rule-based bots to advanced AI chatbots that can have full conversations and feel more human-like.
+
+**Benefits:**
+- Work 24/7
+- Can handle many users at once (scalable)
+- Give personalized suggestions
+- Support natural, human-like chat
+- Can speak multiple languages
+
+**Where Are They Used?**
+- Customer service (e.g. answering common questions)
+- E-commerce (e.g. helping with orders and refunds)
+- Healthcare (e.g. checking symptoms)
+- Education (e.g. tutoring or answering learning questions)
+- Also used in HR and IT support, and even for understanding emotions (sentiment analysis)
 
 
 ## 📎 Resources & Links
