@@ -150,6 +150,19 @@ Experts think it will help the world’s economy grow a lot in the next 10 years
 - Relies on large language models (LLMs) that need careful prompting and tuning.
 - A feedback loop helps refine prompts to make responses more specific to a company’s needs.
 
+**Generative AI Use Cases**
+**Text Generation**
+Tools like ChatGPT and Google Gemini use large language models (LLMs) like GPT, PaLM, and Gemini to create text.
+
+**Image Generation**
+Stable Diffusion and DALL-E are used to generate realistic images.
+
+**Voice and Music Generation**
+Tools like Murf and AIVA create music and voice content in different moods and styles.
+
+**Video Generation**
+AI models like Google’s Imagen Video and OpenAI’s Sora can generate lifelike videos.
+
 **AI’s Impact on Industries**
 AI’s transformative influence across various industries:
 
@@ -193,6 +206,8 @@ They’ve grown from simple rule-based bots to advanced AI chatbots that can hav
 **AI in Retail**
 - Suggests products through recommendation engines.
 - Helps predict demand, manage stock, and personalize marketing.
+
+
 
 
 ## 📎 Resources & Links
