@@ -163,6 +163,17 @@ Tools like Murf and AIVA create music and voice content in different moods and s
 **Video Generation**
 AI models like Google’s Imagen Video and OpenAI’s Sora can generate lifelike videos.
 
+**Generative AI Google Uses:**
+
+**Google Photos**: Image enhancements
+**Google Duplex**: Natural Language Understanding 
+**Google Magenta**: Music Generation
+
+**Generative AI Adobe Uses:**
+**Adobe Sensei** - Machine learning platform. Used for photo automation and font recognition.
+**Saleforce** - Uses Einstein for its slack platform. Leveraging ChatGPT AI technology.
+**IBM** - Uses WatsonX to help businesses create custom applications.
+
 **AI’s Impact on Industries**
 AI’s transformative influence across various industries:
 
@@ -207,7 +218,24 @@ They’ve grown from simple rule-based bots to advanced AI chatbots that can hav
 - Suggests products through recommendation engines.
 - Helps predict demand, manage stock, and personalize marketing.
 
+**Applications of Machine Learning in the real world**
 
+**Natural Language Processing (NLP)**
+- Powers chatbots that answer customer questions and send complex issues to human agents.
+
+**Mobile Applications**
+- Apps like Spotify and LinkedIn use ML to give personalized recommendations.
+- Smartphones use ML for face recognition and image sorting.
+
+**Finance and Security**
+- Fraud Detection: ML finds suspicious credit card activity.
+- Cybersecurity: Helps detect and respond to cyber threats.
+
+**Healthcare**
+- Assists doctors by analyzing medical images, helping detect diseases like cancer.
+
+**Marketing**
+- Used for targeted ads and campaigns, using algorithms similar to those in music or video streaming platforms.
 
 
 ## 📎 Resources & Links
