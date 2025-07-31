@@ -237,6 +237,29 @@ They’ve grown from simple rule-based bots to advanced AI chatbots that can hav
 **Marketing**
 - Used for targeted ads and campaigns, using algorithms similar to those in music or video streaming platforms.
 
+**Core Concepts of Cognitive Computing**
+
+- Mimics human thinking, reasoning, and problem-solving.
+
+- Builds intelligent systems that can adapt and understand user needs.
+
+- Helps machines anticipate questions and provide meaningful insights.
+
+**Key Elements of Cognitive Computing:**
+
+**Perception:** Gathers and interprets data to understand the environment. (Gathering data)
+**Learning:** Uses machine learning to find patterns and extract useful information from data.
+**Reasoning** Making accurate predictions and decisions based on the analysed data.
+
+**Applications and Benefits**
+
+- Enhances decision-making by analyzing large datasets.
+- Automates repetitive tasks, improving efficiency.
+- Widely used in healthcare, finance, and customer service.
+- Real-world examples: IBM Watson, Amazon Alexa.
+
+
+
 
 ## 📎 Resources & Links
 
