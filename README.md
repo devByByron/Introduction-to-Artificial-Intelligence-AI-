@@ -104,9 +104,18 @@ Example: Siri or Alexa answering questions and setting reminders.
 Example: A robot teacher that can teach math today and cook a meal tomorrow—just like a human can learn and adapt to new tasks.
 
 **How does AI learn?**
-- Supervised learning:
-- Unsupervised learning:
-- Reinforcement learning:
+**Supervised learning:**
+- The algorithm learns from labeled data (where the correct answers are already known).
+- It’s like learning with a teacher who tells you the right answer.
+- Used for classification (e.g., spam vs. not spam) and regression (e.g., predicting house prices).
+- The more examples it sees, the better it gets.
+  
+**Unsupervised learning:**
+- The algorithm works with data that has no labels—it has to figure things out on its own.
+- It looks for patterns, trends, or groups in the data.
+- Useful for clustering (e.g., grouping customers by behavior) or dimensionality reduction (simplifying data).
+  
+Reinforcement learning:
 
 **Human, Artifical and Augmented Intelligence**
 
@@ -258,7 +267,8 @@ They’ve grown from simple rule-based bots to advanced AI chatbots that can hav
 - Widely used in healthcare, finance, and customer service.
 - Real-world examples: IBM Watson, Amazon Alexa.
 
-
+AI behaviours
+- Planning, Learning, Reasoning, Problem-solving, Knowledge, Perception, Motion, Manipulation, Social Intelligence, Creativity
 
 
 ## 📎 Resources & Links
