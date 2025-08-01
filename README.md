@@ -267,8 +267,125 @@ They’ve grown from simple rule-based bots to advanced AI chatbots that can hav
 - Widely used in healthcare, finance, and customer service.
 - Real-world examples: IBM Watson, Amazon Alexa.
 
-AI behaviours
+**AI behaviours**
 - Planning, Learning, Reasoning, Problem-solving, Knowledge, Perception, Motion, Manipulation, Social Intelligence, Creativity
+
+
+**Machine Learning Categories**
+
+**Supervised Learning**
+- Uses labeled data (data with known answers) to predict or classify new data.
+
+**Unsupervised Learning**
+- Works with unlabeled data to find patterns or groupings (e.g., clustering similar items).
+
+**Reinforcement Learning**
+- Learns by trial and error, getting rewards for good actions and penalties for bad ones.
+
+**Supervised Learning Tasks**
+**Regression**
+- Predicts continuous values (e.g., predicting house prices based on size).
+
+**Classification**
+- Predicts categories (e.g., is this email spam or not?).
+
+**Model Training Process**
+- Training Set: Teaches the model using known data and answers.
+- Validation Set: Fine-tunes the model and checks its performance during training.
+- Test Set: Evaluates the model on new, unseen data using metrics like accuracy and precision.
+
+**Deep Learning Overview**
+- Builds neural networks by stacking layers of algorithms, similar to how the brain works.
+- Handles unstructured data like images, videos, and audio, allowing AI to learn and improve over time.
+
+**Deep Learning Process**
+Uses multiple layers, where each layer:
+- Processes input
+- Passes output to the next layer.
+  
+**Developers set:**
+- Number of layers
+- Functions for each layer
+
+**Models are trained with labeled data to learn patterns.**
+
+**Applications & Advantages**
+Common uses:
+- Image captioning
+- Voice and facial recognition
+- Medical imaging
+- Language translation
+- Driverless car technology
+
+**Advantages:**
+- Gets better with more data.
+- Ideal for complex tasks like self-driving cars.
+
+
+**Neural Network(building block of an AI systems) Structure**
+Made of neurons (nodes) connected in layers:
+
+- Input Layer: Receives data.
+- Hidden Layers: Process data using activation functions.
+- Output Layer: Produces the final result.
+
+**Neural Network Learning Process**
+- Forward Pass(Forward Propagation): Data flows through layers to make predictions.
+- Backward Pass(Backward Propagation): Adjusts weights using error feedback.
+- Repeats with many datasets until predictions are accurate.
+
+**Types of Neural Networks**
+- Perceptron: Simplest form.Consist of only input and output layers
+- Feed-Forward Neural Network (FFNN): Data flows in one direction.
+- Deep Feed-Forward Network: Multiple hidden layers for complex tasks.
+- Convolutional Neural Network (CNN): Great for images and visual data.
+- Recurrent Neural Network (RNN): Considers sequence and context over time.
+
+**AI Hierarchy**
+Artificial Intelligence -> Machine Learning -> Neural Networks -> Deep Learning
+
+**Generative AI model** architectures include VAEs, GANs, autoregressive models, and Transformers.
+
+Variational autoencoders (VAEs):
+
+- **Encoder:** Input data into a latent space representation
+- **Latent space** captures essential data characteristics
+- **Decoder:** Generates outputs based on this representation
+
+**Generative adversarial networks (GANs)**:
+- **Generator:** New data samples
+- **Discriminator:** Verify the generated data
+
+**Autoregressive models:**
+- Create data sequentially
+- Consider the context 
+
+**Transformers:**
+- Generate text sequences
+- Perform cross-language translations effectively
+
+**Models**
+Models can be categorized into **unimodal** or **multimodal**. 
+**Unimodal models** process inputs and generate outputs within the same modality and multimodal models handle inputs from one modality and produce outputs in a different modality.
+
+**Natural Language**
+
+Natural language processing aids computers in interpreting and producing human language and uses machine learning and deep learning algorithms to understand a word's semantic meaning by deconstructing sentences grammatically, relationally, and structurally.
+
+- Speech-to-text (STT) technology transforms spoken words into written text.
+- Text-to-speech (TTS) technology converts written text into spoken words. 
+
+**Computer vision** enables machines to understand visual data by analyzing images or videos, drawing meaningful insights, and making informed decisions.
+
+**IoT** devices are a network of physical devices connected to the internet that collect and share data for processing and analysis. 
+
+**Cloud computing** allows you to store and use data and services over the internet.
+
+**Edge computing** refers to the practice of processing data closer to the source of generation, rather than relying on a centralized data center. 
+
+**The intersection of AI**, IoT, cloud computing, and edge computing brings you smart and real-time applications.
+
+**Real-world applications of AI**, cloud computing, edge computing, and IoT can include AI-powered traffic lights, smart public transportation, smart agriculture, and smart buildings.
 
 
 ## 📎 Resources & Links
