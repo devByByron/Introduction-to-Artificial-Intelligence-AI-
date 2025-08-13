@@ -424,86 +424,57 @@ Startups and generative AI: Cost-effectiveness and increased effeciency and inno
 
 **Retrieval-augmented generation (RAG)**
 
-Introduction to RAG
-Retrieval-Augmented Generation (RAG) is a hybrid NLP approach combining retrieval-based and generation-based models.
+**Introduction to RAG**
+- Retrieval-Augmented Generation (RAG) is a hybrid NLP approach combining retrieval-based and generation-based models.
+- Effective for question answering, dialogue systems, and content creation.
 
-Effective for question answering, dialogue systems, and content creation.
 
-Objectives
-Understand how RAG works.
+**How RAG Works (3 Steps)**
+1. Retrieve: Relevant documents or data are fetched from a corpus or database.
+2. Augment: Retrieved documents are added to the query as extra context.
+3. Generate: The generative model produces a response using both the query and retrieved data.
 
-Learn how it overcomes generative AI limitations.
+**Limitations of Pure Generative AI**
+- Can hallucinate (produce plausible but false information).
+- Knowledge cutoff—cannot access information beyond training date.
+- Limited context window, struggling with long-term context.
+- May lack depth and specificity.
+- Computationally expensive for long/complex tasks.
 
-Explore its applications and use cases.
+**How RAG Addresses These Limitations**
+- Reduces hallucinations by grounding answers in retrieved data.
+- Mitigates knowledge cutoff via up-to-date retrieval.
+- Extends context window by including relevant documents.
+- Improves specificity with detailed and focused information.
+- Increases efficiency by narrowing information space before generation.
 
-How RAG Works (3 Steps)
-Retrieve: Relevant documents or data are fetched from a corpus or database.
-
-Augment: Retrieved documents are added to the query as extra context.
-
-Generate: The generative model produces a response using both the query and retrieved data.
-
-Limitations of Pure Generative AI
-Can hallucinate (produce plausible but false information).
-
-Knowledge cutoff—cannot access information beyond training date.
-
-Limited context window, struggling with long-term context.
-
-May lack depth and specificity.
-
-Computationally expensive for long/complex tasks.
-
-How RAG Addresses These Limitations
-Reduces hallucinations by grounding answers in retrieved data.
-
-Mitigates knowledge cutoff via up-to-date retrieval.
-
-Extends context window by including relevant documents.
-
-Improves specificity with detailed and focused information.
-
-Increases efficiency by narrowing information space before generation.
-
-Key Components
-1. Retrieval Component
-
+**Key Components**
+**1. Retrieval Component**
 Function: Finds relevant, factual information from a corpus.
-
 Mechanism: Uses methods like BM25 or neural dense retrievers.
 
-2. Generation Component
+**2. Generation Component**
+- Function: Produces coherent, context-aware text.
+- Mechanism: Uses models like GPT-3 or BERT, blending retrieved data with generative power.
 
-Function: Produces coherent, context-aware text.
+**Benefits**
+- More accurate and factually grounded outputs.
+- Contextually relevant responses.
+- Adaptable to many NLP tasks.
+- Provides real-time, updated information.
 
-Mechanism: Uses models like GPT-3 or BERT, blending retrieved data with generative power.
+**Applications**
+- Question answering (complex queries).
+- Content creation (articles, reports, creative writing).
+- Customer support (accurate and updated responses).
+- Search engines (better, fact-based results).
 
-Benefits
-More accurate and factually grounded outputs.
+**RAG on Google Cloud**
+- Vertex AI: Build and deploy RAG models.
+- BigQuery: Efficiently retrieve large datasets.
+- Key features: Scalability, integration with APIs/data sources, customization options.
 
-Contextually relevant responses.
-
-Adaptable to many NLP tasks.
-
-Provides real-time, updated information.
-
-Applications
-Question answering (complex queries).
-
-Content creation (articles, reports, creative writing).
-
-Customer support (accurate and updated responses).
-
-Search engines (better, fact-based results).
-
-RAG on Google Cloud
-Vertex AI: Build and deploy RAG models.
-
-BigQuery: Efficiently retrieve large datasets.
-
-Key features: Scalability, integration with APIs/data sources, customization options.
-
-Example
+**Example**
 For “What were the key causes of World War II?”, RAG retrieves relevant historical documents, then generates an accurate, detailed answer.
 
 
