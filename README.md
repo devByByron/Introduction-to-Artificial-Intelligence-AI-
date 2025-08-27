@@ -161,6 +161,7 @@ Experts think it will help the world’s economy grow a lot in the next 10 years
 - A feedback loop helps refine prompts to make responses more specific to a company’s needs.
 
 **Generative AI Use Cases**
+
 **Text Generation**
 Tools like ChatGPT and Google Gemini use large language models (LLMs) like GPT, PaLM, and Gemini to create text.
 
