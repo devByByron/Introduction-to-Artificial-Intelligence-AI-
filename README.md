@@ -104,6 +104,7 @@ Example: Siri or Alexa answering questions and setting reminders.
 Example: A robot teacher that can teach math today and cook a meal tomorrow—just like a human can learn and adapt to new tasks.
 
 **How does AI learn?**
+
 **Supervised learning:**
 - The algorithm learns from labeled data (where the correct answers are already known).
 - It’s like learning with a teacher who tells you the right answer.
