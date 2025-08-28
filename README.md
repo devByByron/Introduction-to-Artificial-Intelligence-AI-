@@ -8,7 +8,7 @@ This course covers core AI concepts, including deep learning, machine learning, 
 - 💡 **Instructor:** Rav Ahuja 
 - 🎓 **Platform:** [Coursera](https://www.coursera.org/programs/advanced-digital-skills-5a-cpt-july2025-fs5qr/learn/introduction-to-ai) 
 - 🏢 **Offered by:** IBM  
-- 📅 **Status:** In Progress 
+- 📅 **Status:** Done
 
 ---
 
