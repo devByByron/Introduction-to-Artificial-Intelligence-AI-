@@ -267,9 +267,12 @@ They’ve grown from simple rule-based bots to advanced AI chatbots that can hav
 - Image recognition helps with quality control by spotting defects early.
 
 **AI in Healthcare**
+
+Electronic Health Records (EHRs) enable AI systems to track patient data over time, identify trends, and predict health risks. This supports early intervention and more personalized, preventative care.
+
 - Helps analyze medical images (like X-rays) for better diagnosis.
 - Uses predictive analytics to identify health risks and improve patient care.
-
+  
 **AI in Finance**
 - Powers chatbots for customer service.
 - Improves investment decisions by analyzing large amounts of data.
