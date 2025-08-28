@@ -421,11 +421,17 @@ Variational autoencoders (VAEs):
 - Generate text sequences
 - Perform cross-language translations effectively
 
-**Models**
+**Additionnal Explaination:**
 
-Models can be categorized into **unimodal** or **multimodal**. 
+**Variational Autoencoders (VAEs)**: These models consist of an encoder that simplifies input data into a latent space representation, and a decoder that generates new outputs from this representation. Applications include image generation and anomaly detection.
+**Generative Adversarial Networks (GANs)**: Comprising a generator and a discriminator, GANs train together where the **generator** creates data and the **discriminator** evaluates its authenticity. They are used in image synthesis and style transfer.
+**Autoregressive Models**: These models generate data sequentially, predicting the next element based on previous ones. They are effective in generating text and music, with examples like WaveNet for audio generation.
 
-**Unimodal models** process inputs and generate outputs within the same modality and multimodal models handle inputs from one modality and produce outputs in a different modality.
+
+**Model Categories**
+Unimodal Models: These handle one type of data, such as GPT-3, which generates text from text input.
+Multimodal Models: These can process multiple data types, like DALL-E, which generates images from text descriptions.
+
 
 **Natural Language**
 
@@ -489,9 +495,9 @@ Startups and generative AI: Cost-effectiveness and increased effeciency and inno
 
 
 **How RAG Works (3 Steps)**
-1. Retrieve: Relevant documents or data are fetched from a corpus or database.
-2. Augment: Retrieved documents are added to the query as extra context.
-3. Generate: The generative model produces a response using both the query and retrieved data.
+1. **Retrieve:** Relevant documents or data are fetched from a corpus or database.
+2. **Augment:** Retrieved documents are added to the query as extra context.
+3. **Generate:** The generative model produces a response using both the query and retrieved data.
 
 **Limitations of Pure Generative AI**
 - Can hallucinate (produce plausible but false information).
@@ -529,8 +535,8 @@ Mechanism: Uses methods like BM25 or neural dense retrievers.
 - Search engines (better, fact-based results).
 
 **RAG on Google Cloud**
-- Vertex AI: Build and deploy RAG models.
-- BigQuery: Efficiently retrieve large datasets.
+- **Vertex AI**: Build and deploy RAG models.
+- **BigQuery**: Efficiently retrieve large datasets.
 - Key features: Scalability, integration with APIs/data sources, customization options.
 
 **Example**
