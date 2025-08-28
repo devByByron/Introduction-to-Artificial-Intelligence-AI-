@@ -419,7 +419,9 @@ Variational autoencoders (VAEs):
 - Perform cross-language translations effectively
 
 **Models**
+
 Models can be categorized into **unimodal** or **multimodal**. 
+
 **Unimodal models** process inputs and generate outputs within the same modality and multimodal models handle inputs from one modality and produce outputs in a different modality.
 
 **Natural Language**
