@@ -308,7 +308,9 @@ They’ve grown from simple rule-based bots to advanced AI chatbots that can hav
 **Key Elements of Cognitive Computing:**
 
 **Perception:** Gathers and interprets data to understand the environment. (Gathering data)
+
 **Learning:** Uses machine learning to find patterns and extract useful information from data.
+
 **Reasoning** Making accurate predictions and decisions based on the analysed data.
 
 **Applications and Benefits**
@@ -334,6 +336,7 @@ They’ve grown from simple rule-based bots to advanced AI chatbots that can hav
 - Learns by trial and error, getting rewards for good actions and penalties for bad ones.
 
 **Supervised Learning Tasks**
+
 **Regression**
 - Predicts continuous values (e.g., predicting house prices based on size).
 
