@@ -116,7 +116,7 @@ Example: A robot teacher that can teach math today and cook a meal tomorrow—ju
 - It looks for patterns, trends, or groups in the data.
 - Useful for clustering (e.g., grouping customers by behavior) or dimensionality reduction (simplifying data).
   
-Reinforcement learning:
+Reinforcement learning: AI that learns by trial and error.
 
 **Human, Artifical and Augmented Intelligence**
 
@@ -192,6 +192,51 @@ AI’s transformative influence across various industries:
 - **Healthcare**: Medical imaging analysis, predictive analytics, operational efficiency
 - **Finance**: Enhance customer service, investment analysis
 - **Retail**: Customer engagement, inventory management, marketing, cashier-less stores
+
+
+**1. Manufacturing**
+
+AI-driven robotics → Reactive AI / Limited Memory AI / Narrow AI
+(Robots operate based on programmed rules and sometimes learn from sensor data).
+
+Image recognition systems → Narrow AI / Predictive AI
+(Recognizes defects, patterns, or quality issues by analyzing visual data).
+
+**2. Healthcare**
+
+Medical imaging analysis → Narrow AI / Predictive AI
+(AI models detect diseases like cancer from X-rays/MRIs using past cases).
+
+Predictive analytics → Predictive AI
+(Forecasting patient outcomes, hospital admissions, or disease risks).
+
+Operational efficiency → Prescriptive AI
+(Suggesting resource allocation, staff scheduling, or patient flow improvements).
+
+**3. Finance**
+
+Enhance customer service (chatbots, fraud detection) → Narrow AI / Limited Memory AI
+(Chatbots are Narrow AI; fraud systems learn patterns = Limited Memory).
+
+Investment analysis → Predictive AI / Prescriptive AI
+(Predicting stock trends and recommending portfolio actions).
+
+**4. Retail**
+
+Customer engagement (chatbots, personalization) → Narrow AI / Predictive AI
+(Recommender systems predicting what customers may buy next).
+
+Inventory management → Prescriptive AI
+(Suggesting restocking schedules, supplier choices).
+
+Marketing → Predictive AI / Generative AI
+(Predicting customer preferences, and generating ad content).
+
+Cashier-less stores (Amazon Go style) → Limited Memory AI / Narrow AI
+(Systems remember recent shopper behavior, detect items taken, and process payments).
+
+
+
 
 **What Are AI Chatbots and Smart Assistants?**
 They are AI-powered programs that can understand questions, provide answers, and help with tasks.
