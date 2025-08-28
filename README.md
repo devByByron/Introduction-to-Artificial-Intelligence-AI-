@@ -177,12 +177,16 @@ AI models like Google’s Imagen Video and OpenAI’s Sora can generate lifelike
 **Generative AI Google Uses:**
 
 **Google Photos**: Image enhancements
-**Google Duplex**: Natural Language Understanding 
+
+**Google Duplex**: Natural Language Understanding
+
 **Google Magenta**: Music Generation
 
 **Generative AI Adobe Uses:**
 **Adobe Sensei** - Machine learning platform. Used for photo automation and font recognition.
+
 **Saleforce** - Uses Einstein for its slack platform. Leveraging ChatGPT AI technology.
+
 **IBM** - Uses WatsonX to help businesses create custom applications.
 
 **AI’s Impact on Industries**
