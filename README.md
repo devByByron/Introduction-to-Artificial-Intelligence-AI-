@@ -395,8 +395,9 @@ Made of neurons (nodes) connected in layers:
 - Perceptron: Simplest form.Consist of only input and output layers
 - Feed-Forward Neural Network (FFNN): Data flows in one direction.
 - Deep Feed-Forward Network: Multiple hidden layers for complex tasks.
+- Modular Neural Networks: Combines two or more neural networks.
 - Convolutional Neural Network (CNN): Great for images and visual data.
-- Recurrent Neural Network (RNN): Considers sequence and context over time.
+- Recurrent Neural Network (RNN): Considers sequence and context over time. Use this neural network to access previous information. Useful for predicting the next word in a sentance.
 
 **AI Hierarchy**
 Artificial Intelligence -> Machine Learning -> Neural Networks -> Deep Learning
@@ -415,7 +416,8 @@ Variational autoencoders (VAEs):
 
 **Autoregressive models:**
 - Create data sequentially
-- Consider the context 
+- Consider the context
+- E.g. WaveNet
 
 **Transformers:**
 - Generate text sequences
@@ -424,11 +426,14 @@ Variational autoencoders (VAEs):
 **Additionnal Explaination:**
 
 **Variational Autoencoders (VAEs)**: These models consist of an encoder that simplifies input data into a latent space representation, and a decoder that generates new outputs from this representation. Applications include image generation and anomaly detection.
+
 **Generative Adversarial Networks (GANs)**: Comprising a generator and a discriminator, GANs train together where the **generator** creates data and the **discriminator** evaluates its authenticity. They are used in image synthesis and style transfer.
+
 **Autoregressive Models**: These models generate data sequentially, predicting the next element based on previous ones. They are effective in generating text and music, with examples like WaveNet for audio generation.
 
 
 **Model Categories**
+
 Unimodal Models: These handle one type of data, such as GPT-3, which generates text from text input.
 Multimodal Models: These can process multiple data types, like DALL-E, which generates images from text descriptions.
 
@@ -577,14 +582,14 @@ For “What were the key causes of World War II?”, RAG retrieves relevant hist
 - Monitor and optimize performance.
 
 **AI Tools & Platforms**
-- General-purpose: ChatGPT, Gemini.
-- Marketing & content creation: Copy.ai, Jasper, Synthesia.
-- Writing & communication: Grammarly, QuillBot.
-- Language learning/translation: Duolingo, Google Translate, Babel.
-- Customer service: AI chatbots, Zendesk, LivePerson.
-- Data analysis & visualization: Tableau, Power BI.
-- Software development: GitHub Copilot.
-- Task management: Todoist, Microsoft To Do, Evernote.
+- **General-purpose**: ChatGPT, Gemini.
+- **Marketing & content creation**: Copy.ai, Jasper, Synthesia.
+- **Writing & communication**: Grammarly, QuillBot.
+- **Language learning/translation**: Duolingo, Google Translate, Babel.
+- **Customer service**: AI chatbots, Zendesk, LivePerson.
+- **Data analysis & visualization**: Tableau, Power BI.
+- **Software development**: GitHub Copilot.
+- **Task management**: Todoist, Microsoft To Do, Evernote.
 
 **AI Career Paths**
 - AI Ethicist – Ensures ethical development/use of AI.
@@ -615,13 +620,13 @@ Generative AI involves the use of algorithms to create new content, such as text
 
 Some considerations around using generative AI are:
 
-- Copyright and ownership: It is important for developers and users to familiarize themselves with legal frameworks and stay updated on evolving laws. 
+- **Copyright and ownership:** It is important for developers and users to familiarize themselves with legal frameworks and stay updated on evolving laws. 
 
-- Privacy and confidentiality of user data: It is beneficial to use private AI models and a combination of technical and legal measures. 
+- **Privacy and confidentiality of user data**: It is beneficial to use private AI models and a combination of technical and legal measures. 
 
-- Deepfakes and misinformation: It is essential to think critically in ensuring the accuracy of generative AI outputs, and how it can mitigate AI flaws like hallucinations.
+- **Deepfakes and misinformation**: It is essential to think critically in ensuring the accuracy of generative AI outputs, and how it can mitigate AI flaws like hallucinations.
 
-- Ethical considerations: It is crucial for developers to prioritize fairness, accountability, and social benefits in AI development.
+- **Ethical considerations:** It is crucial for developers to prioritize fairness, accountability, and social benefits in AI development.
 
 Examining the perspectives of the key players can help one gain a comprehensive understanding of the diverse approaches to AI ethics, the challenges they aim to address, and the strategies they employ to promote the responsible use of AI technologies.
 
